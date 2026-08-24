@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 235468657,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T10:26:27Z",
+                "last_commit": "2026-08-24T21:18:28Z",
                 "owner": "PipedreamHQ",
                 "repo": "pipedream",
-                "stars": 11643
+                "stars": 11645
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-06-22T16:50:50Z",
                 "owner": "metatool-ai",
                 "repo": "metamcp",
-                "stars": 2620
+                "stars": 2623
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-16T07:37:47Z",
                 "owner": "julien040",
                 "repo": "anyquery",
-                "stars": 1763
+                "stars": 1765
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-24T08:36:05Z",
                 "owner": "opentabs-dev",
                 "repo": "opentabs",
-                "stars": 913
+                "stars": 915
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 949456378,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:46:05Z",
+                "last_commit": "2026-08-24T14:03:51Z",
                 "owner": "1mcp-app",
                 "repo": "agent",
                 "stars": 489
@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 678765416,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:31:58Z",
+                "last_commit": "2026-08-24T15:36:38Z",
                 "owner": "TheLunarCompany",
                 "repo": "lunar",
                 "stars": 484
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 1004056914,
                 "language": "Go",
-                "last_commit": "2026-08-24T10:57:26Z",
+                "last_commit": "2026-08-24T21:24:11Z",
                 "owner": "smart-mcp-proxy",
                 "repo": "mcpproxy-go",
                 "stars": 321
@@ -269,7 +269,7 @@
                 "archived": false,
                 "id": 993805781,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:31:33Z",
+                "last_commit": "2026-08-24T21:35:13Z",
                 "owner": "juspay",
                 "repo": "neurolink",
                 "stars": 123
@@ -494,7 +494,7 @@
                 "archived": false,
                 "id": 1168828614,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T06:32:10Z",
+                "last_commit": "2026-08-24T20:15:44Z",
                 "owner": "rhein1",
                 "repo": "agoragentic-integrations",
                 "stars": 29
@@ -569,7 +569,7 @@
                 "archived": false,
                 "id": 1123923171,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:37:51Z",
+                "last_commit": "2026-08-24T21:33:48Z",
                 "owner": "Consiliency",
                 "repo": "pmcp",
                 "stars": 20
@@ -704,7 +704,7 @@
                 "archived": false,
                 "id": 1176569250,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:32:08Z",
+                "last_commit": "2026-08-24T14:34:06Z",
                 "owner": "whiteknightonhorse",
                 "repo": "APIbase",
                 "stars": 8
@@ -1643,7 +1643,7 @@
                 "last_commit": "2026-08-24T11:12:00Z",
                 "owner": "ahujasid",
                 "repo": "blender-mcp",
-                "stars": 26233
+                "stars": 26249
               }
             },
             {
@@ -1658,7 +1658,7 @@
                 "last_commit": "2026-08-23T07:00:53Z",
                 "owner": "samuelgursky",
                 "repo": "davinci-resolve-mcp",
-                "stars": 2268
+                "stars": 2273
               }
             },
             {
@@ -1673,7 +1673,7 @@
                 "last_commit": "2026-08-05T12:09:47Z",
                 "owner": "jau123",
                 "repo": "MeiGen-AI-Design-MCP",
-                "stars": 1713
+                "stars": 1714
               }
             },
             {
@@ -1703,7 +1703,7 @@
                 "last_commit": "2026-07-29T21:22:29Z",
                 "owner": "diivi",
                 "repo": "aseprite-mcp",
-                "stars": 445
+                "stars": 447
               }
             },
             {
@@ -2625,7 +2625,7 @@
                 "last_commit": "2026-06-08T07:13:56Z",
                 "owner": "BV-Venky",
                 "repo": "excalidraw-architect-mcp",
-                "stars": 145
+                "stars": 146
               }
             },
             {
@@ -2810,6 +2810,21 @@
             },
             {
               "node_type": "item",
+              "title": "uxloom-dev/uxloom",
+              "description": "📇 🏠 🍎 🪟 🐧 - Agent-native UI/UX design validation: model user journeys as state machines and prove what AI-generated screens are missing (unreachable states, missing empty/loading/error states, WCAG contrast, touch targets, localization overflow) before code exists — then verify the code implements the contract. Deterministic CI gates (, ), one-command setup ().",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1298145216,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T17:02:13Z",
+                "owner": "uxloom-dev",
+                "repo": "uxloom",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
               "title": "yenchieh/diagramzu-mcp",
               "description": "📇 ☁️ - Let your AI author Mermaid diagrams (flowchart, sequence, ER, mindmap) in a shared workspace, then read, comment on, embed, and present them at a clean URL — instead of pasting back hundreds of lines of prose. Hosted endpoint or local . 14 tools incl. diagram CRUD, version history, comments, presentation decks, and lints.",
               "children": [],
@@ -2837,21 +2852,6 @@
                 "repo": "motionlint",
                 "stars": 0
               }
-            },
-            {
-              "node_type": "item",
-              "title": "uxloom-dev/uxloom",
-              "description": "📇 🏠 🍎 🪟 🐧 - Agent-native UI/UX design validation: model user journeys as state machines and prove what AI-generated screens are missing (unreachable states, missing empty/loading/error states, WCAG contrast, touch targets, localization overflow) before code exists — then verify the code implements the contract. Deterministic CI gates (, ), one-command setup ().",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1298145216,
-                "language": "TypeScript",
-                "last_commit": "2026-08-09T17:02:13Z",
-                "owner": "uxloom-dev",
-                "repo": "uxloom",
-                "stars": 0
-              }
             }
           ],
           "description": "Design and visualize software architecture, system diagrams, and technical documentation. Enables AI models to generate professional diagrams and architectural documentation.",
@@ -2869,7 +2869,7 @@
                 "archived": false,
                 "id": 958852531,
                 "language": "Rust",
-                "last_commit": "2026-08-23T22:00:19Z",
+                "last_commit": "2026-08-24T18:00:09Z",
                 "owner": "genomoncology",
                 "repo": "biomcp",
                 "stars": 605
@@ -2887,7 +2887,7 @@
                 "last_commit": "2026-07-09T10:57:10Z",
                 "owner": "the-momentum",
                 "repo": "apple-health-mcp-server",
-                "stars": 255
+                "stars": 256
               }
             },
             {
@@ -2932,7 +2932,7 @@
                 "last_commit": "2026-06-04T02:40:19Z",
                 "owner": "JamesANZ",
                 "repo": "medical-mcp",
-                "stars": 108
+                "stars": 109
               }
             },
             {
@@ -3064,7 +3064,7 @@
                 "archived": false,
                 "id": 1137092570,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T20:04:26Z",
+                "last_commit": "2026-08-24T14:15:26Z",
                 "owner": "SidneyBissoli",
                 "repo": "medical-terminologies-mcp",
                 "stars": 10
@@ -3434,7 +3434,7 @@
                 "last_commit": "2026-08-05T02:48:59Z",
                 "owner": "bytedance",
                 "repo": "UI-TARS-desktop",
-                "stars": 38702
+                "stars": 38704
               }
             },
             {
@@ -3449,7 +3449,7 @@
                 "last_commit": "2026-08-21T22:46:04Z",
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36421
+                "stars": 36426
               }
             },
             {
@@ -3461,10 +3461,10 @@
                 "archived": false,
                 "id": 899407931,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T15:54:03Z",
+                "last_commit": "2026-08-24T21:26:49Z",
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7308
+                "stars": 7309
               }
             },
             {
@@ -3629,7 +3629,7 @@
                 "last_commit": "2024-12-22T03:27:15Z",
                 "owner": "recursechat",
                 "repo": "mcp-server-apple-shortcuts",
-                "stars": 343
+                "stars": 344
               }
             },
             {
@@ -3731,7 +3731,7 @@
                 "archived": false,
                 "id": 1185552276,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T21:33:02Z",
+                "last_commit": "2026-08-24T14:55:47Z",
                 "owner": "achiya-automation",
                 "repo": "safari-mcp",
                 "stars": 176
@@ -3799,21 +3799,6 @@
             },
             {
               "node_type": "item",
-              "title": "apireno/DOMShell",
-              "description": "📇 🏠 - Browse the web using filesystem commands (ls, cd, grep, click). 38 MCP tools map Chrome's Accessibility Tree to a virtual filesystem via a Chrome Extension.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1152324064,
-                "language": "TypeScript",
-                "last_commit": "2026-08-14T21:23:42Z",
-                "owner": "apireno",
-                "repo": "DOMShell",
-                "stars": 51
-              }
-            },
-            {
-              "node_type": "item",
               "title": "swimmwatch/cloakbrowser-mcp",
               "description": "📇 🏠 🍎 🪟 🐧 - Playwright MCP-compatible browser automation using CloakBrowser Chromium, available as an npm package and Docker image.",
               "children": [],
@@ -3824,6 +3809,21 @@
                 "last_commit": "2026-08-20T23:50:01Z",
                 "owner": "swimmwatch",
                 "repo": "cloakbrowser-mcp",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "apireno/DOMShell",
+              "description": "📇 🏠 - Browse the web using filesystem commands (ls, cd, grep, click). 38 MCP tools map Chrome's Accessibility Tree to a virtual filesystem via a Chrome Extension.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1152324064,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T21:23:42Z",
+                "owner": "apireno",
+                "repo": "DOMShell",
                 "stars": 51
               }
             },
@@ -4039,6 +4039,21 @@
             },
             {
               "node_type": "item",
+              "title": "Mingye-Lu/AgenticCrawler",
+              "description": "🦀 🏠 🍎 🪟 🐧 - Autonomous LLM-powered web crawler with 17 browser tools and goal-driven agent. Single binary, stealth browsing, 25 LLM providers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1196460387,
+                "language": "Rust",
+                "last_commit": "2026-07-31T07:59:31Z",
+                "owner": "Mingye-Lu",
+                "repo": "AgenticCrawler",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
               "title": "nnemirovsky/iwdp-mcp",
               "description": "🏎️ 🏠 🍎 🐧 - iOS Safari debugging via ios-webkit-debug-proxy — MCP server with full WebKit Inspector Protocol support (DOM, CSS, Network, Storage, Debugger, and more)",
               "children": [],
@@ -4050,21 +4065,6 @@
                 "owner": "nnemirovsky",
                 "repo": "iwdp-mcp",
                 "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Mingye-Lu/AgenticCrawler",
-              "description": "🦀 🏠 🍎 🪟 🐧 - Autonomous LLM-powered web crawler with 17 browser tools and goal-driven agent. Single binary, stealth browsing, 25 LLM providers.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1196460387,
-                "language": "Rust",
-                "last_commit": "2026-07-31T07:59:31Z",
-                "owner": "Mingye-Lu",
-                "repo": "AgenticCrawler",
-                "stars": 11
               }
             },
             {
@@ -4608,7 +4608,7 @@
                 "archived": false,
                 "id": 952238700,
                 "language": "Python",
-                "last_commit": "2026-08-23T01:15:51Z",
+                "last_commit": "2026-08-24T21:23:09Z",
                 "owner": "awslabs",
                 "repo": "mcp",
                 "stars": 9636
@@ -4656,7 +4656,7 @@
                 "last_commit": "2026-08-24T10:55:33Z",
                 "owner": "containers",
                 "repo": "kubernetes-mcp-server",
-                "stars": 2014
+                "stars": 2016
               }
             },
             {
@@ -4671,7 +4671,7 @@
                 "last_commit": "2026-08-08T17:15:37Z",
                 "owner": "Flux159",
                 "repo": "mcp-server-kubernetes",
-                "stars": 1574
+                "stars": 1575
               }
             },
             {
@@ -4683,7 +4683,7 @@
                 "archived": false,
                 "id": 969282615,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:13:08Z",
+                "last_commit": "2026-08-24T14:43:55Z",
                 "owner": "hashicorp",
                 "repo": "terraform-mcp-server",
                 "stars": 1511
@@ -4926,7 +4926,7 @@
                 "last_commit": "2026-08-23T06:49:23Z",
                 "owner": "AliKarami",
                 "repo": "MikroMCP",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -5523,7 +5523,7 @@
                 "archived": false,
                 "id": 1218965451,
                 "language": "Go",
-                "last_commit": "2026-08-17T15:42:01Z",
+                "last_commit": "2026-08-24T18:39:52Z",
                 "owner": "GeiserX",
                 "repo": "spinnaker-mcp",
                 "stars": 5
@@ -5613,7 +5613,7 @@
                 "archived": false,
                 "id": 1226399176,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:44:51Z",
+                "last_commit": "2026-08-24T21:18:01Z",
                 "owner": "L337-org",
                 "repo": "docker-mcp",
                 "stars": 4
@@ -6115,10 +6115,10 @@
                 "archived": false,
                 "id": 818331198,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:31:34Z",
+                "last_commit": "2026-08-24T20:49:11Z",
                 "owner": "pydantic",
                 "repo": "pydantic-ai",
-                "stars": 19477
+                "stars": 19481
               }
             },
             {
@@ -6190,7 +6190,7 @@
                 "archived": false,
                 "id": 961207108,
                 "language": "Rust",
-                "last_commit": "2026-08-24T00:10:11Z",
+                "last_commit": "2026-08-24T16:37:47Z",
                 "owner": "r33drichards",
                 "repo": "mcp-js",
                 "stars": 51
@@ -6410,7 +6410,7 @@
                 "last_commit": "2026-08-20T06:51:15Z",
                 "owner": "oraios",
                 "repo": "serena",
-                "stars": 28437
+                "stars": 28450
               }
             },
             {
@@ -6425,7 +6425,7 @@
                 "last_commit": "2026-08-21T12:12:40Z",
                 "owner": "wonderwhy-er",
                 "repo": "DesktopCommanderMCP",
-                "stars": 9389
+                "stars": 9388
               }
             },
             {
@@ -6485,7 +6485,7 @@
                 "last_commit": "2026-03-28T13:25:52Z",
                 "owner": "rinadelph",
                 "repo": "Agent-MCP",
-                "stars": 1275
+                "stars": 1276
               }
             },
             {
@@ -6497,10 +6497,10 @@
                 "archived": false,
                 "id": 1188762020,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:28:20Z",
+                "last_commit": "2026-08-24T21:31:38Z",
                 "owner": "sipyourdrink-ltd",
                 "repo": "bernstein",
-                "stars": 974
+                "stars": 979
               }
             },
             {
@@ -6512,7 +6512,7 @@
                 "archived": false,
                 "id": 776924173,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:53:08Z",
+                "last_commit": "2026-08-24T18:37:46Z",
                 "owner": "aymericzip",
                 "repo": "intlayer",
                 "stars": 798
@@ -6527,10 +6527,10 @@
                 "archived": false,
                 "id": 973373852,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:19:54Z",
+                "last_commit": "2026-08-24T18:38:06Z",
                 "owner": "tufantunc",
                 "repo": "ssh-mcp",
-                "stars": 652
+                "stars": 655
               }
             },
             {
@@ -7382,7 +7382,7 @@
                 "archived": false,
                 "id": 1281701594,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T03:11:31Z",
+                "last_commit": "2026-08-24T18:15:33Z",
                 "owner": "VibeKit-Bot",
                 "repo": "vibekit-mcp",
                 "stars": 1
@@ -7479,7 +7479,7 @@
                 "archived": false,
                 "id": 961531304,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:18:25Z",
+                "last_commit": "2026-08-24T21:22:11Z",
                 "owner": "zb-ss",
                 "repo": "servonaut",
                 "stars": 24
@@ -7599,7 +7599,7 @@
                 "archived": false,
                 "id": 1270714989,
                 "language": "Rust",
-                "last_commit": "2026-08-24T11:32:16Z",
+                "last_commit": "2026-08-24T16:45:16Z",
                 "owner": "lacs-project",
                 "repo": "sysknife",
                 "stars": 8
@@ -7674,7 +7674,7 @@
                 "archived": false,
                 "id": 1211161094,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T15:25:07Z",
+                "last_commit": "2026-08-24T15:38:48Z",
                 "owner": "WhenLabs-org",
                 "repo": "when",
                 "stars": 3
@@ -7771,10 +7771,10 @@
                 "archived": false,
                 "id": 665613753,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:48:27Z",
+                "last_commit": "2026-08-24T21:36:37Z",
                 "owner": "elie222",
                 "repo": "inbox-zero",
-                "stars": 12071
+                "stars": 12076
               }
             },
             {
@@ -7789,7 +7789,7 @@
                 "last_commit": "2025-07-13T17:22:00Z",
                 "owner": "lharries",
                 "repo": "whatsapp-mcp",
-                "stars": 6189
+                "stars": 6190
               }
             },
             {
@@ -7819,7 +7819,7 @@
                 "last_commit": "2026-08-23T14:05:12Z",
                 "owner": "chigwell",
                 "repo": "telegram-mcp",
-                "stars": 1503
+                "stars": 1504
               }
             },
             {
@@ -7849,7 +7849,7 @@
                 "last_commit": "2026-08-24T10:00:10Z",
                 "owner": "Softeria",
                 "repo": "ms-365-mcp-server",
-                "stars": 930
+                "stars": 931
               }
             },
             {
@@ -7894,7 +7894,7 @@
                 "last_commit": "2026-04-25T13:55:22Z",
                 "owner": "SaseQ",
                 "repo": "discord-mcp",
-                "stars": 457
+                "stars": 458
               }
             },
             {
@@ -7906,7 +7906,7 @@
                 "archived": false,
                 "id": 950628723,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:45:12Z",
+                "last_commit": "2026-08-24T16:13:13Z",
                 "owner": "InditexTech",
                 "repo": "mcp-teams-server",
                 "stars": 394
@@ -7924,7 +7924,7 @@
                 "last_commit": "2026-05-28T17:44:53Z",
                 "owner": "chaindead",
                 "repo": "telegram-mcp",
-                "stars": 343
+                "stars": 344
               }
             },
             {
@@ -8029,7 +8029,7 @@
                 "last_commit": "2026-08-18T07:59:24Z",
                 "owner": "agentmail-to",
                 "repo": "agentmail-toolkit",
-                "stars": 94
+                "stars": 95
               }
             },
             {
@@ -8164,7 +8164,7 @@
                 "last_commit": "2026-08-21T09:49:16Z",
                 "owner": "cometchat",
                 "repo": "docs-mcp",
-                "stars": 59
+                "stars": 60
               }
             },
             {
@@ -8251,7 +8251,7 @@
                 "archived": false,
                 "id": 1197791383,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T19:20:37Z",
+                "last_commit": "2026-08-24T15:33:47Z",
                 "owner": "lanchuske",
                 "repo": "local-mcp-releases",
                 "stars": 45
@@ -8334,6 +8334,21 @@
             },
             {
               "node_type": "item",
+              "title": "keturiosakys/bluesky-context-server",
+              "description": "📇 ☁️ - Bluesky instance integration for querying and interaction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 896258038,
+                "language": "TypeScript",
+                "last_commit": "2025-08-10T13:26:48Z",
+                "owner": "laulauland",
+                "repo": "bluesky-context-server",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
               "title": "littlebearapps/outlook-assistant",
               "description": "📇 ☁️ - Ask your AI assistant to search your inbox, send emails, schedule meetings, manage contacts, and configure mailbox settings — without leaving the conversation. Works with Claude, Cursor, Windsurf, and any MCP-compatible client.",
               "children": [],
@@ -8359,21 +8374,6 @@
                 "last_commit": "2026-07-17T12:00:10Z",
                 "owner": "infobip",
                 "repo": "mcp",
-                "stars": 33
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "keturiosakys/bluesky-context-server",
-              "description": "📇 ☁️ - Bluesky instance integration for querying and interaction",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 896258038,
-                "language": "TypeScript",
-                "last_commit": "2025-08-10T13:26:48Z",
-                "owner": "laulauland",
-                "repo": "bluesky-context-server",
                 "stars": 33
               }
             },
@@ -8574,6 +8574,21 @@
             },
             {
               "node_type": "item",
+              "title": "Sealjay/mcp-hey",
+              "description": "📇 🏠 🍎 - Local MCP server for Hey.com email. Read, search, send, reply, and manage the screener via locally cached session from Hey's webview auth.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1136525652,
+                "language": "TypeScript",
+                "last_commit": "2026-07-13T04:09:59Z",
+                "owner": "Sealjay",
+                "repo": "mcp-hey",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
               "title": "tlennon-ie/neurodock",
               "description": "🐍 🏠 ☁️ - Local-first cognitive substrate for neurodivergent professionals: a translator for corporate ambiguity, a planner, and a guardrail that declines to amplify rumination, hyperfocus, or sycophancy. Hosted stateless tools over OAuth.",
               "children": [],
@@ -8629,21 +8644,6 @@
                 "last_commit": "2026-07-27T19:03:39Z",
                 "owner": "PhononX",
                 "repo": "cv-mcp-server",
-                "stars": 10
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Sealjay/mcp-hey",
-              "description": "📇 🏠 🍎 - Local MCP server for Hey.com email. Read, search, send, reply, and manage the screener via locally cached session from Hey's webview auth.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1136525652,
-                "language": "TypeScript",
-                "last_commit": "2026-07-13T04:09:59Z",
-                "owner": "Sealjay",
-                "repo": "mcp-hey",
                 "stars": 10
               }
             },
@@ -8746,7 +8746,7 @@
                 "archived": false,
                 "id": 1192212674,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:33:30Z",
+                "last_commit": "2026-08-24T17:35:58Z",
                 "owner": "BigCactusLabs",
                 "repo": "dead-letter",
                 "stars": 6
@@ -9563,7 +9563,7 @@
                 "archived": false,
                 "id": 1254777604,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T18:28:32Z",
+                "last_commit": "2026-08-24T15:59:13Z",
                 "owner": "TsvetanG2",
                 "repo": "cognigy-ai-mcp-management-server",
                 "stars": 2
@@ -9655,7 +9655,7 @@
                 "last_commit": "2026-08-19T11:23:08Z",
                 "owner": "antvis",
                 "repo": "mcp-server-chart",
-                "stars": 4336
+                "stars": 4337
               }
             },
             {
@@ -9700,7 +9700,7 @@
                 "last_commit": "2026-01-30T15:36:37Z",
                 "owner": "hustcc",
                 "repo": "mcp-echarts",
-                "stars": 261
+                "stars": 262
               }
             },
             {
@@ -9802,7 +9802,7 @@
                 "archived": false,
                 "id": 1058352364,
                 "language": "JavaScript",
-                "last_commit": "2026-08-02T00:11:27Z",
+                "last_commit": "2026-08-24T14:28:51Z",
                 "owner": "embeddedlayers",
                 "repo": "mcp-analytics",
                 "stars": 7
@@ -9847,7 +9847,7 @@
                 "archived": false,
                 "id": 1151560013,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T05:28:09Z",
+                "last_commit": "2026-08-24T13:58:16Z",
                 "owner": "azmartone67",
                 "repo": "dchub-mcp-server",
                 "stars": 2
@@ -9899,10 +9899,10 @@
                 "archived": false,
                 "id": 812044182,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:19:06Z",
+                "last_commit": "2026-08-24T21:21:46Z",
                 "owner": "googleapis",
                 "repo": "mcp-toolbox",
-                "stars": 16249
+                "stars": 16250
               }
             },
             {
@@ -9914,10 +9914,10 @@
                 "archived": false,
                 "id": 769023213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T00:14:20Z",
+                "last_commit": "2026-08-24T21:32:16Z",
                 "owner": "get-convex",
                 "repo": "convex-backend",
-                "stars": 12422
+                "stars": 12425
               }
             },
             {
@@ -9929,10 +9929,10 @@
                 "archived": false,
                 "id": 281073868,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:28:26Z",
+                "last_commit": "2026-08-24T14:12:59Z",
                 "owner": "baserow",
                 "repo": "baserow",
-                "stars": 5680
+                "stars": 5684
               }
             },
             {
@@ -9947,7 +9947,7 @@
                 "last_commit": "2026-08-17T05:06:35Z",
                 "owner": "crystaldba",
                 "repo": "postgres-mcp",
-                "stars": 3214
+                "stars": 3216
               }
             },
             {
@@ -9962,7 +9962,7 @@
                 "last_commit": "2026-08-24T11:11:40Z",
                 "owner": "supabase",
                 "repo": "mcp",
-                "stars": 2871
+                "stars": 2872
               }
             },
             {
@@ -9977,7 +9977,7 @@
                 "last_commit": "2026-07-27T13:36:52Z",
                 "owner": "benborla",
                 "repo": "mcp-server-mysql",
-                "stars": 2072
+                "stars": 2071
               }
             },
             {
@@ -9992,7 +9992,7 @@
                 "last_commit": "2026-08-14T00:13:56Z",
                 "owner": "qdrant",
                 "repo": "mcp-server-qdrant",
-                "stars": 1513
+                "stars": 1514
               }
             },
             {
@@ -10007,7 +10007,7 @@
                 "last_commit": "2026-08-02T13:36:20Z",
                 "owner": "designcomputer",
                 "repo": "mysql_mcp_server",
-                "stars": 1365
+                "stars": 1366
               }
             },
             {
@@ -10019,7 +10019,7 @@
                 "archived": false,
                 "id": 396867188,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:40:17Z",
+                "last_commit": "2026-08-24T21:34:36Z",
                 "owner": "ArcadeData",
                 "repo": "arcadedb",
                 "stars": 1099
@@ -10094,7 +10094,7 @@
                 "archived": false,
                 "id": 317614271,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:48:41Z",
+                "last_commit": "2026-08-24T20:07:31Z",
                 "owner": "planetscale",
                 "repo": "cli",
                 "stars": 664
@@ -10124,7 +10124,7 @@
                 "archived": false,
                 "id": 896203400,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:08:38Z",
+                "last_commit": "2026-08-24T21:26:55Z",
                 "owner": "neondatabase",
                 "repo": "mcp-server-neon",
                 "stars": 624
@@ -10244,7 +10244,7 @@
                 "archived": false,
                 "id": 950227197,
                 "language": "Go",
-                "last_commit": "2026-08-24T00:26:55Z",
+                "last_commit": "2026-08-24T20:59:06Z",
                 "owner": "FreePeak",
                 "repo": "db-mcp-server",
                 "stars": 413
@@ -10484,7 +10484,7 @@
                 "archived": false,
                 "id": 917875449,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:02:12Z",
+                "last_commit": "2026-08-24T20:23:28Z",
                 "owner": "confluentinc",
                 "repo": "mcp-confluent",
                 "stars": 167
@@ -10739,7 +10739,7 @@
                 "archived": false,
                 "id": 1298571736,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:13:19Z",
+                "last_commit": "2026-08-24T18:15:30Z",
                 "owner": "FROWNINGdev",
                 "repo": "django-orm-lens",
                 "stars": 72
@@ -11294,7 +11294,7 @@
                 "archived": false,
                 "id": 1244314123,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:48:08Z",
+                "last_commit": "2026-08-24T13:49:47Z",
                 "owner": "devopam",
                 "repo": "MCPg",
                 "stars": 9
@@ -11444,7 +11444,7 @@
                 "archived": false,
                 "id": 1220812874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T11:47:37Z",
+                "last_commit": "2026-08-24T15:15:18Z",
                 "owner": "astandrik",
                 "repo": "local-ydb-toolkit",
                 "stars": 4
@@ -11579,7 +11579,7 @@
                 "archived": false,
                 "id": 1259362197,
                 "language": "Python",
-                "last_commit": "2026-08-23T13:47:06Z",
+                "last_commit": "2026-08-24T14:38:54Z",
                 "owner": "nlqueries",
                 "repo": "nlqueries",
                 "stars": 2
@@ -11781,7 +11781,7 @@
                 "archived": false,
                 "id": 915789942,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:59:20Z",
+                "last_commit": "2026-08-24T21:36:29Z",
                 "owner": "keboola",
                 "repo": "mcp-server",
                 "stars": 86
@@ -12373,10 +12373,10 @@
                 "archived": false,
                 "id": 1166102148,
                 "language": "C",
-                "last_commit": "2026-08-24T12:33:10Z",
+                "last_commit": "2026-08-24T16:02:51Z",
                 "owner": "DeusData",
                 "repo": "codebase-memory-mcp",
-                "stars": 40281
+                "stars": 40374
               }
             },
             {
@@ -12388,10 +12388,10 @@
                 "archived": false,
                 "id": 1146193768,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:45:59Z",
+                "last_commit": "2026-08-24T21:37:43Z",
                 "owner": "callstack",
                 "repo": "agent-device",
-                "stars": 4206
+                "stars": 4208
               }
             },
             {
@@ -12516,21 +12516,6 @@
             },
             {
               "node_type": "item",
-              "title": "emailens/mcp",
-              "description": "🎖️ 📇 ☁️ - Official MCP server for Emailens, the rendering linter for email. Lint HTML email for rendering issues across 15 clients (Gmail, Outlook, Apple Mail and more), score CSS compatibility 0-100 per client, simulate dark mode, and get framework-native fix snippets for React Email, MJML, and Maizzle.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1166835062,
-                "language": "TypeScript",
-                "last_commit": "2026-08-23T19:37:24Z",
-                "owner": "emailens",
-                "repo": "mcp",
-                "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
               "title": "AKzar1el/mcp-web-validator",
               "description": "📇 ☁️ 🏠 🍎 🪟 🐧 - Web Validator by DigestSEO validates HTML and CSS, audits technical SEO and accessibility signals, checks JSON-LD and bounded public links, and captures responsive screenshots. Install locally with ; no API keys required.",
               "children": [],
@@ -12541,6 +12526,21 @@
                 "last_commit": "2026-08-18T19:13:34Z",
                 "owner": "AKzar1el",
                 "repo": "mcp-web-validator",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emailens/mcp",
+              "description": "🎖️ 📇 ☁️ - Official MCP server for Emailens, the rendering linter for email. Lint HTML email for rendering issues across 15 clients (Gmail, Outlook, Apple Mail and more), score CSS compatibility 0-100 per client, simulate dark mode, and get framework-native fix snippets for React Email, MJML, and Maizzle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1166835062,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T19:37:24Z",
+                "owner": "emailens",
+                "repo": "mcp",
                 "stars": 6
               }
             },
@@ -12658,7 +12658,7 @@
                 "archived": false,
                 "id": 1265287804,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T11:55:11Z",
+                "last_commit": "2026-08-24T16:06:46Z",
                 "owner": "forgemeshlabs",
                 "repo": "aso-audit-mcp",
                 "stars": 2
@@ -12901,7 +12901,7 @@
                 "last_commit": "2026-04-28T13:27:12Z",
                 "owner": "eyaltoledano",
                 "repo": "claude-task-master",
-                "stars": 28017
+                "stars": 28019
               }
             },
             {
@@ -12916,7 +12916,7 @@
                 "last_commit": "2026-08-07T04:58:42Z",
                 "owner": "GLips",
                 "repo": "Figma-Context-MCP",
-                "stars": 15709
+                "stars": 15708
               }
             },
             {
@@ -12943,10 +12943,10 @@
                 "archived": false,
                 "id": 1189384516,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:24:44Z",
+                "last_commit": "2026-08-24T19:27:08Z",
                 "owner": "repowise-dev",
                 "repo": "repowise",
-                "stars": 6199
+                "stars": 6212
               }
             },
             {
@@ -12961,7 +12961,7 @@
                 "last_commit": "2026-08-18T08:23:07Z",
                 "owner": "mobile-next",
                 "repo": "mobile-mcp",
-                "stars": 5987
+                "stars": 5994
               }
             },
             {
@@ -12976,7 +12976,7 @@
                 "last_commit": "2026-07-31T23:27:33Z",
                 "owner": "21st-dev",
                 "repo": "magic-mcp",
-                "stars": 5722
+                "stars": 5724
               }
             },
             {
@@ -13003,10 +13003,10 @@
                 "archived": false,
                 "id": 1137865761,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:47:46Z",
+                "last_commit": "2026-08-24T21:26:42Z",
                 "owner": "skyhook-io",
                 "repo": "radar",
-                "stars": 3082
+                "stars": 3099
               }
             },
             {
@@ -13093,7 +13093,7 @@
                 "archived": false,
                 "id": 1124809458,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:37:34Z",
+                "last_commit": "2026-08-24T15:54:02Z",
                 "owner": "BetterDB-inc",
                 "repo": "monitor",
                 "stars": 1301
@@ -13171,7 +13171,7 @@
                 "last_commit": "2026-03-12T17:17:24Z",
                 "owner": "zcaceres",
                 "repo": "fetch-mcp",
-                "stars": 814
+                "stars": 815
               }
             },
             {
@@ -13201,7 +13201,7 @@
                 "last_commit": "2026-08-12T17:12:41Z",
                 "owner": "utensils",
                 "repo": "mcp-nixos",
-                "stars": 804
+                "stars": 805
               }
             },
             {
@@ -13261,7 +13261,7 @@
                 "last_commit": "2025-11-12T15:12:43Z",
                 "owner": "etsd-tech",
                 "repo": "mcp-pointer",
-                "stars": 594
+                "stars": 595
               }
             },
             {
@@ -13303,7 +13303,7 @@
                 "archived": false,
                 "id": 1079141596,
                 "language": "C#",
-                "last_commit": "2026-08-24T13:40:30Z",
+                "last_commit": "2026-08-24T17:47:41Z",
                 "owner": "sbroenne",
                 "repo": "mcp-server-excel",
                 "stars": 565
@@ -13363,7 +13363,7 @@
                 "archived": false,
                 "id": 1109762984,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:00:55Z",
+                "last_commit": "2026-08-24T14:07:06Z",
                 "owner": "flytohub",
                 "repo": "flyto-core",
                 "stars": 480
@@ -13381,7 +13381,7 @@
                 "last_commit": "2026-08-22T11:07:30Z",
                 "owner": "Muvon",
                 "repo": "octocode",
-                "stars": 451
+                "stars": 452
               }
             },
             {
@@ -13561,7 +13561,7 @@
                 "last_commit": "2026-08-24T13:41:49Z",
                 "owner": "public-ui",
                 "repo": "kolibri",
-                "stars": 276
+                "stars": 277
               }
             },
             {
@@ -13633,7 +13633,7 @@
                 "archived": false,
                 "id": 946763772,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:24:22Z",
+                "last_commit": "2026-08-24T20:56:31Z",
                 "owner": "comet-ml",
                 "repo": "opik-mcp",
                 "stars": 217
@@ -13648,7 +13648,7 @@
                 "archived": false,
                 "id": 1233398203,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:38:43Z",
+                "last_commit": "2026-08-24T14:06:44Z",
                 "owner": "ozgurcd",
                 "repo": "gograph",
                 "stars": 212
@@ -13663,7 +13663,7 @@
                 "archived": false,
                 "id": 1066672055,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:31:44Z",
+                "last_commit": "2026-08-24T15:47:18Z",
                 "owner": "veelenga",
                 "repo": "claude-mermaid",
                 "stars": 201
@@ -15328,7 +15328,7 @@
                 "archived": false,
                 "id": 1171892905,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T09:43:23Z",
+                "last_commit": "2026-08-24T21:32:13Z",
                 "owner": "IgorGanapolsky",
                 "repo": "ThumbGate",
                 "stars": 26
@@ -15388,7 +15388,7 @@
                 "archived": false,
                 "id": 1181140100,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:52:01Z",
+                "last_commit": "2026-08-24T15:10:42Z",
                 "owner": "knewstimek",
                 "repo": "agent-tool",
                 "stars": 24
@@ -15445,7 +15445,7 @@
               "description": "🎖️ 📇 ☁️ - Integration with QA Sphere test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "id": 958648823,
                 "language": "TypeScript",
                 "last_commit": "2026-08-24T09:14:26Z",
@@ -15508,7 +15508,7 @@
                 "archived": false,
                 "id": 1056826668,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:09:06Z",
+                "last_commit": "2026-08-24T21:35:11Z",
                 "owner": "Wolfe-Jam",
                 "repo": "claude-faf-mcp",
                 "stars": 22
@@ -15598,7 +15598,7 @@
                 "archived": false,
                 "id": 1181920564,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:10:20Z",
+                "last_commit": "2026-08-24T16:41:54Z",
                 "owner": "AI-by-design",
                 "repo": "primitiv",
                 "stars": 19
@@ -15981,6 +15981,21 @@
             },
             {
               "node_type": "item",
+              "title": "LumabyteCo/clarifyprompt-mcp",
+              "description": "📇 ☁️ 🍎 🪟 🐧 - MCP server for AI prompt optimization — transforms vague prompts into platform-optimized prompts for 58+ AI platforms across 7 categories (image, video, voice, music, code, chat, document).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1167694006,
+                "language": "TypeScript",
+                "last_commit": "2026-07-14T17:07:39Z",
+                "owner": "LumabyteCo",
+                "repo": "clarifyprompt-mcp",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
               "title": "mumez/pharo-smalltalk-interop-mcp-server",
               "description": "🐍 🏠 - Pharo Smalltalk integration enabling code evaluation, class/method introspection, package management, test execution, and project installation for interactive development with Pharo images.",
               "children": [],
@@ -16026,6 +16041,21 @@
             },
             {
               "node_type": "item",
+              "title": "richer-richard/fenestra",
+              "description": "🦀 🏠 - Render and verify native Rust GUIs with no display or GPU: render to a typed accessibility tree, query/interact by semantic selector (never coordinates), check contrast/focus-order/hit-target-size, diff screenshots, and watch motion play as a captioned filmstrip. 13 tools. .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1264811113,
+                "language": "Rust",
+                "last_commit": "2026-08-13T11:02:29Z",
+                "owner": "richer-richard",
+                "repo": "fenestra",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Chunkydotdev/bldbl-mcp",
               "description": "📇 ☁️ 🍎 🪟 🐧 - Official MCP server for Buildable AI-powered development platform bldbl.dev. Enables AI assistants to manage tasks, track progress, get project context, and collaborate with humans on software projects.",
               "children": [],
@@ -16051,21 +16081,6 @@
                 "last_commit": "2025-09-05T03:49:18Z",
                 "owner": "HainanZhao",
                 "repo": "mcp-gitlab-jira",
-                "stars": 11
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "LumabyteCo/clarifyprompt-mcp",
-              "description": "📇 ☁️ 🍎 🪟 🐧 - MCP server for AI prompt optimization — transforms vague prompts into platform-optimized prompts for 58+ AI platforms across 7 categories (image, video, voice, music, code, chat, document).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1167694006,
-                "language": "TypeScript",
-                "last_commit": "2026-07-14T17:07:39Z",
-                "owner": "LumabyteCo",
-                "repo": "clarifyprompt-mcp",
                 "stars": 11
               }
             },
@@ -16116,21 +16131,6 @@
             },
             {
               "node_type": "item",
-              "title": "richer-richard/fenestra",
-              "description": "🦀 🏠 - Render and verify native Rust GUIs with no display or GPU: render to a typed accessibility tree, query/interact by semantic selector (never coordinates), check contrast/focus-order/hit-target-size, diff screenshots, and watch motion play as a captioned filmstrip. 13 tools. .",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1264811113,
-                "language": "Rust",
-                "last_commit": "2026-08-13T11:02:29Z",
-                "owner": "richer-richard",
-                "repo": "fenestra",
-                "stars": 11
-              }
-            },
-            {
-              "node_type": "item",
               "title": "akramIOT/MCP_AI_SOC_Sher",
               "description": "🐍 ☁️ 📇 - MCP Server to do dynamic AI SOC Security Threat analysis for a Text2SQL AI Agent.",
               "children": [],
@@ -16171,6 +16171,21 @@
                 "last_commit": "2026-02-12T10:57:51Z",
                 "owner": "conan-io",
                 "repo": "conan-mcp",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gavelcode/gavel",
+              "description": "🏎️ 🏠 - Code-quality gate for Bazel monorepos: runs lint, coverage and architecture checks off the build graph and returns a pass/fail verdict an agent can request before finishing a change.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280643432,
+                "language": "Go",
+                "last_commit": "2026-08-24T20:06:37Z",
+                "owner": "gavelcode",
+                "repo": "gavel",
                 "stars": 10
               }
             },
@@ -16261,21 +16276,6 @@
                 "last_commit": "2026-05-09T03:41:02Z",
                 "owner": "alexpota",
                 "repo": "deploy-mcp",
-                "stars": 9
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gavelcode/gavel",
-              "description": "🏎️ 🏠 - Code-quality gate for Bazel monorepos: runs lint, coverage and architecture checks off the build graph and returns a pass/fail verdict an agent can request before finishing a change.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1280643432,
-                "language": "Go",
-                "last_commit": "2026-08-17T20:07:01Z",
-                "owner": "gavelcode",
-                "repo": "gavel",
                 "stars": 9
               }
             },
@@ -17008,7 +17008,7 @@
                 "archived": false,
                 "id": 1233643195,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:04:33Z",
+                "last_commit": "2026-08-24T13:53:37Z",
                 "owner": "astandrik",
                 "repo": "codex-pets",
                 "stars": 4
@@ -17038,7 +17038,7 @@
                 "archived": false,
                 "id": 1176973105,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:06:31Z",
+                "last_commit": "2026-08-24T19:47:29Z",
                 "owner": "Contentrain",
                 "repo": "ai",
                 "stars": 4
@@ -17233,7 +17233,7 @@
                 "archived": false,
                 "id": 727706544,
                 "language": "Rust",
-                "last_commit": "2026-08-24T09:06:37Z",
+                "last_commit": "2026-08-24T19:36:26Z",
                 "owner": "sebastienrousseau",
                 "repo": "rlg",
                 "stars": 4
@@ -17428,7 +17428,7 @@
                 "archived": false,
                 "id": 1157804168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T06:50:04Z",
+                "last_commit": "2026-08-24T19:18:15Z",
                 "owner": "ellmos-ai",
                 "repo": "ellmos-codecommander-mcp",
                 "stars": 3
@@ -17653,7 +17653,7 @@
                 "archived": false,
                 "id": 1137609573,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:38:33Z",
+                "last_commit": "2026-08-24T16:41:29Z",
                 "owner": "4DA-Systems",
                 "repo": "4DA",
                 "stars": 2
@@ -17893,7 +17893,7 @@
                 "archived": false,
                 "id": 1304441776,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T13:38:55Z",
+                "last_commit": "2026-08-24T21:31:44Z",
                 "owner": "seldonframe",
                 "repo": "reelier",
                 "stars": 2
@@ -18028,7 +18028,7 @@
                 "archived": false,
                 "id": 1218430537,
                 "language": "TypeScript",
-                "last_commit": "2026-04-25T00:34:17Z",
+                "last_commit": "2026-08-24T17:25:36Z",
                 "owner": "DigiCatalyst-Systems",
                 "repo": "dep-diff-mcp",
                 "stars": 2
@@ -18103,7 +18103,7 @@
                 "archived": false,
                 "id": 1248997763,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:13:56Z",
+                "last_commit": "2026-08-24T17:45:19Z",
                 "owner": "swapnanil",
                 "repo": "vectr",
                 "stars": 2
@@ -18193,7 +18193,7 @@
                 "archived": false,
                 "id": 1308520911,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:22:11Z",
+                "last_commit": "2026-08-24T15:54:35Z",
                 "owner": "homespunapps",
                 "repo": "homespun",
                 "stars": 1
@@ -18613,7 +18613,7 @@
                 "archived": false,
                 "id": 1278643387,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T17:00:42Z",
+                "last_commit": "2026-08-24T14:44:21Z",
                 "owner": "SunrisesIllNeverSee",
                 "repo": "sigrank-mcp",
                 "stars": 0
@@ -18900,7 +18900,7 @@
                 "last_commit": "2026-08-11T05:23:40Z",
                 "owner": "zcaceres",
                 "repo": "markdownify-mcp",
-                "stars": 2980
+                "stars": 2981
               }
             },
             {
@@ -18912,7 +18912,7 @@
                 "archived": false,
                 "id": 931366703,
                 "language": "Python",
-                "last_commit": "2026-08-23T14:32:44Z",
+                "last_commit": "2026-08-24T17:19:47Z",
                 "owner": "datalayer",
                 "repo": "jupyter-mcp-server",
                 "stars": 1256
@@ -19125,7 +19125,7 @@
                 "last_commit": "2026-08-16T23:45:06Z",
                 "owner": "Whatsonyourmind",
                 "repo": "oraclaw",
-                "stars": 12
+                "stars": 13
               }
             },
             {
@@ -19197,7 +19197,7 @@
                 "archived": false,
                 "id": 1060761440,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:37:43Z",
+                "last_commit": "2026-08-24T19:05:44Z",
                 "owner": "clouatre-labs",
                 "repo": "math-mcp-learning-server",
                 "stars": 5
@@ -19399,7 +19399,7 @@
                 "archived": false,
                 "id": 85225460,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:45:35Z",
+                "last_commit": "2026-08-24T21:35:46Z",
                 "owner": "nteract",
                 "repo": "semiotic",
                 "stars": 2691
@@ -19414,7 +19414,7 @@
                 "archived": false,
                 "id": 1291028767,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T00:50:00Z",
+                "last_commit": "2026-08-24T17:15:37Z",
                 "owner": "ganapativs",
                 "repo": "microcharts",
                 "stars": 150
@@ -19511,10 +19511,10 @@
                 "archived": false,
                 "id": 374381865,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:34:13Z",
+                "last_commit": "2026-08-24T15:40:22Z",
                 "owner": "stack-chan",
                 "repo": "stack-chan",
-                "stars": 1667
+                "stars": 1668
               }
             },
             {
@@ -19586,7 +19586,7 @@
                 "archived": false,
                 "id": 1154772973,
                 "language": "Python",
-                "last_commit": "2026-08-20T07:40:38Z",
+                "last_commit": "2026-08-24T20:07:15Z",
                 "owner": "codeofaxel",
                 "repo": "Kiln",
                 "stars": 48
@@ -19791,7 +19791,7 @@
                 "last_commit": "2026-05-01T15:23:34Z",
                 "owner": "RohanMuppa",
                 "repo": "brightspace-mcp-server",
-                "stars": 31
+                "stars": 32
               }
             },
             {
@@ -19886,7 +19886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:48:26.733Z",
+    "last_updated": "2026-08-24T21:38:04.248Z",
     "original_repository": "punkpeye/awesome-mcp-servers",
     "original_repository_id": 896335270,
     "original_repository_sha": "6c929cdf022f57cf954ab1b504cc266c0908373b",
